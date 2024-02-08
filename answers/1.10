@@ -1,2 +1,2 @@
-docker exec -it newname /bin/sh
+docker exec -it container_tp /bin/sh
 docker run -it N4rcis/tp:latest /bin/sh
